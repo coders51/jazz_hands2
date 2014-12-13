@@ -24,15 +24,13 @@ Gem::Specification.new do |spec|
   spec.required_ruby_version = '>= 2.0.0'
   spec.add_development_dependency "bundler", "~> 1.7"
   spec.add_development_dependency "rake", "~> 10.0"
-  spec.add_runtime_dependency 'pry', '>= 0.9.12'
-  spec.add_runtime_dependency 'pry-rails', '~> 0.3.2'
-  spec.add_runtime_dependency 'pry-doc', '~> 0.4.6'
-  spec.add_runtime_dependency 'pry-git', '~> 0.2.3'
-  spec.add_runtime_dependency 'pry-stack_explorer', '~> 0.4.9'
-  spec.add_runtime_dependency 'pry-remote', '>= 0.1.7'
-  spec.add_runtime_dependency 'pry-byebug', '> 1.3'
-  spec.add_runtime_dependency 'hirb', '~> 0.7.1'
-  spec.add_runtime_dependency 'coolline', '>= 0.4.2'
-  # spec.add_runtime_dependency 'awesome_print', '~> 1.2'
+  spec.add_runtime_dependency 'pry', '~> 0.9', '>= 0.9.12'
+  spec.add_runtime_dependency 'pry-rails', '~> 0.3', '>= 0.3.2'
+  spec.add_runtime_dependency 'pry-doc', '~> 0.4', '>= 0.4.6'
+  spec.add_runtime_dependency 'pry-git', '~> 0.2', '>= 0.2.3'
+  spec.add_runtime_dependency 'pry-stack_explorer', '~> 0.4', '>= 0.4.9'
+  spec.add_runtime_dependency 'pry-remote','~> 0.1',  '>= 0.1.7'
+  spec.add_runtime_dependency 'pry-byebug','~> 1.3', '> 1.3'
+  spec.add_runtime_dependency 'hirb', '~> 0.7', '>= 0.7.1'
   spec.add_runtime_dependency 'railties', '>= 3.0', '< 5.0'
 end
