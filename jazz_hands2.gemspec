@@ -29,8 +29,8 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency 'pry-doc', '~> 0.4', '>= 0.4.6'
   spec.add_runtime_dependency 'pry-git', '~> 0.2', '>= 0.2.3'
   spec.add_runtime_dependency 'pry-stack_explorer', '~> 0.4', '>= 0.4.9'
-  spec.add_runtime_dependency 'pry-remote','~> 0.1',  '>= 0.1.7'
-  spec.add_runtime_dependency 'pry-byebug','~> 1.3', '> 1.3'
+  spec.add_runtime_dependency 'pry-remote', '~> 0.1',  '>= 0.1.7'
+  spec.add_runtime_dependency 'pry-byebug', '>= 2.0'
   spec.add_runtime_dependency 'hirb', '~> 0.7', '>= 0.7.1'
   spec.add_runtime_dependency 'railties', '>= 3.0', '< 5.0'
 end
