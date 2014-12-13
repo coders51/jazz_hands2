@@ -43,7 +43,7 @@ if you want with a `Hirb.disable`.
 
 In my experience is much better to turn off it a couple of times instead of needing to turn on it all the times except a couple.
 
-**Note:** even [**AwesomePrint**] is a wonderful gem, due some existing bugs it is not included.
+**Note:** even if [**AwesomePrint**] is a wonderful gem, due some existing bugs it is not included.
 [eoinkelly](https://github.com/eoinkelly/awesome_print) forks seems to work fine and solve a lot of issues
 while we wait for AwesomePrint v2, from the readme:
 
