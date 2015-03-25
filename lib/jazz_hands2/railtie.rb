@@ -5,7 +5,7 @@ require 'pry-git'
 require 'pry-remote'
 require 'pry-stack_explorer'
 require 'jazz_hands2/hirb_ext'
-require 'pry-byebug'
+# require 'pry-byebug'
 
 module JazzHands2
   class Railtie < Rails::Railtie
