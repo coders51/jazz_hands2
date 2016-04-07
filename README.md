@@ -1,10 +1,10 @@
 # JazzHands2
 
-JazzHands2 aims to be the successor of the abandoned [JazzHand2](https://github.com/nixme/jazz_hands)
+JazzHands2 aims to be the successor of the abandoned JazzHands (https://github.com/nixme/jazz_hands)
 
 The dependencies has been updated, this only supports Ruby 2+.
 
-Some of the codes comes from the [new_jazz_hands](https://github.com/billywatson/jazz_hands) gem, but without
+Some of the codes comes from the new JazzHands (https://github.com/billywatson/jazz_hands) gem, but without
 some conflict in names.
 
 List of gems included:
