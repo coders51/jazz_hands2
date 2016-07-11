@@ -24,7 +24,7 @@ List of gems included:
 
 ## Usage
 
-Ruby 2+, Rails 3, 4 only.
+Ruby 2+, Rails 3+ only.
 
 Add this line to your application's Gemfile:
 
